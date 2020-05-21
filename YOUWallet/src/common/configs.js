@@ -30,7 +30,7 @@ export default (configs = {
     main: {
       type: "main",
       chain: "youchain",
-      httpHosts: ["https://mainnet-node.iyouchain.com"],
+      httpHosts: ["http://mainnet-http.iyouchain.com"],
       wsHosts: ["ws://mainnet-ws.iyouchain.com"]
     },
     selfRpc: {
