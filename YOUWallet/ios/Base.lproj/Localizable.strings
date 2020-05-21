@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  YouChainWallet
+
+  Created by Stephen Zhang on 04/03/2018.
+  Copyright © 2018 Facebook. All rights reserved.
+*/
+
+"uchain" = "Group";
+"facebook" = "Facebook";
+"twitter" = "Twitter";
+"line" = "Line";
+"session" = "Wechat";
+"timeline" = "Timeline";
+"weibo" = "Weibo";
+"copy" = "Copy";
+"download" = "Download";
+"copylink" = "Copy Link";
+"qq" = "QQ";

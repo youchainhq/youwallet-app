@@ -1,0 +1,19 @@
+/* 
+  InfoPlist.strings
+  YouChainWallet
+
+  Created by Stephen Zhang on 08/02/2018.
+  Copyright © 2018 Facebook. All rights reserved.
+*/
+
+CFBundleDisplayName = "有链钱包";
+CFBundleName = "有链钱包";
+NSCameraUsageDescription = "用于上传头像和背景图";
+NSPhotoLibraryUsageDescription = "用于上传头像和背景图";
+NSPhotoLibraryAddUsageDescription = "用于上传头像和背景图";
+NSLocationUsageDescription = "用于发现附近的朋友";
+NSLocationWhenInUseUsageDescription = "用于发现附近的朋友";
+NSLocationAlwaysUsageDescription = "用于发现附近的朋友";
+NSContactsUsageDescription = "用于匹配通讯录好友";
+NSMicrophoneUsageDescription = "用于发送语音信息";
+NSFaceIDUsageDescription = "用于解锁帐号";

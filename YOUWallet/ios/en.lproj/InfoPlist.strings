@@ -1,0 +1,19 @@
+/* 
+  InfoPlist.strings
+  YouChainWallet
+
+  Created by Stephen Zhang on 08/02/2018.
+  Copyright © 2018 Facebook. All rights reserved.
+*/
+
+CFBundleDisplayName = "YOUChainWallet";
+CFBundleName = "YOUChainWallet";
+NSCameraUsageDescription = "Use camera to create avatar and background";
+NSPhotoLibraryUsageDescription = "Use photo to create avatar and background";
+NSPhotoLibraryAddUsageDescription = "Use photo to create avatar and background";
+NSLocationUsageDescription = "Use location service";
+NSLocationWhenInUseUsageDescription = "Use location service";
+NSLocationAlwaysUsageDescription = "Use location service";
+NSContactsUsageDescription = "Use contacts to match friends";
+NSMicrophoneUsageDescription = "Use microphone to send audio message";
+NSFaceIDUsageDescription = "Use Face ID to unlock account";
